@@ -1,18 +1,18 @@
 <rss version="2.0">
   <channel>
     <title>JBM Feed</title>
-    <lastBuildDate>Sat, 28 Mar 2020 16:10:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 9:10:00</lastBuildDate>
     <description>
     JBM Feed
     </description>
     <language>en-us</language>
-    <pubDate>Sat, 28 Mar 2020 16:10:00 +0900</pubDate>
+    <pubDate>Sat, 28 Mar 2020 9:10:00</pubDate>
     <item>
       <title>Test 1</title>
       <description>
         Testing 1!
       </description>
-      <pubDate>Sat, 28 Mar 2020 16:10:00 +0900</pubDate>
+      <pubDate>Sat, 28 Mar 2020 9:10:00</pubDate>
     </item>
     <item>
       <title>Pray Today</title>
