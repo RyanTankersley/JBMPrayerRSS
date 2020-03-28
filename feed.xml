@@ -7,9 +7,9 @@
     <language>en-us</language>
     <pubDate>Sat, 28 Mar 2020 16:10:00 +0900</pubDate>
     <item>
-      <title>Pray Now</title>
+      <title>Test 1</title>
       <description>
-        Prayer is great!
+        Testing 1!
       </description>
       <pubDate>Sat, 28 Mar 2020 16:10:00 +0900</pubDate>
     </item>
@@ -19,13 +19,6 @@
         Lets pray for people!
       </description>
       <pubDate>Sat, 28 Mar 2020 04:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>Pray Today</title>
-      <description>
-        Lets pray for people!
-      </description>
-      <pubDate>Tue, 19 Oct 2004 11:09:11 -0400</pubDate>
     </item>
   </channel>
 </rss>
